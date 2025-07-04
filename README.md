@@ -5,7 +5,6 @@ I’m a Software Engineer with experience in full-stack web development, backend
 
 - 🛠️ **Tech I’ve worked with**: C#, Java, JavaScript, Python, Golang, Node.js, React, MongoDB, PostgreSQL, AWS, GCP, etc.
 - 💡 Always learning: currently exploring **mobile app development**, **Infrastructure as Code (IaC)**, and **cloud automation** tools.
-- 📫 Reach me at: [@gmail.com](mailto:@gmail.com)
 
 ---
 
@@ -48,8 +47,3 @@ A responsive, visually rich frontend website for a Thai restaurant in Mason, Ohi
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tomimakin&show_icons=true&theme=radical)
 
----
-
-## 📫 Contact Me
-
-- **Email**: [@gmail.com](mailto:@gmail.com)
