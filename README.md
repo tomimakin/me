@@ -3,7 +3,7 @@
 ## 🌟 About Me
 I’m a Software Engineer with experience in full-stack web development, backend engineering, and cloud infrastructure. I enjoy building real-world solutions that solve meaningful problems.
 
-- 🛠️ **Tech I’ve worked with**: C#, Java, JavaScript, Python, Golang, Node.js, React, MongoDB, PostgreSQL, AWS, GCP, etc.
+- 🛠️ **Tech I’ve worked with**: C#, Java, JavaScript, Python, Golang, Node.js, React, MongoDB, PostgreSQL, AWS, GCP, Kafka, etc.
 - 💡 Always learning: currently exploring **mobile app development**, **Infrastructure as Code (IaC)**, and **cloud automation** tools.
 
 ---
@@ -11,18 +11,12 @@ I’m a Software Engineer with experience in full-stack web development, backend
 ## 🚀 Projects
 
 ### [abejike](https://abejike.com) *(In Progress)*
-**Tech Stack**: React, Tailwind CSS, Firebase  
+**Tech Stack**: React, Tailwind CSS, Firebase
 An e-commerce website built for a brand selling African-inspired apparel and goods. Designed with a clean and modern aesthetic, the site supports dynamic product listings, responsive layouts, and smooth user experience.
 
 ---
 
-### [Mile 12 Foods Cincinnati](https://mile12foodscincy.web.app/) *(In Progress)*
-**Tech Stack**: React, Firebase  
-A simple and elegant food ordering website for a local Nigerian caterer in Cincinnati. It supports dynamic menus and responsive layouts.
-
----
-
-### Vendary *(In Progress)*
+### [Vendary](https://thevendary.web.app) *(v1)*
 **Tech Stack**: Python, Flask, Jinja, Leaflet.js, Firebase
 An interactive map-based platform that displays vending machines near the user using geolocation. Users can contribute by adding new machine locations. Built with a focus on usability and real-time updates, using Leaflet for mapping and Firebase for backend services.
 
